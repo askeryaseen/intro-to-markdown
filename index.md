@@ -4,4 +4,4 @@
 #### H4 12345 ####
 ##### H5 12345 #####
 ###### H6 12345 ######
-![Image of github octopus](https://octodex.github.com/yogitocat/)
+![Image of github octopus](https://octodex.github.com/yogitocat.png)
