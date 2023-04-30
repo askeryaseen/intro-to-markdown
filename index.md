@@ -5,3 +5,7 @@
 ##### H5 12345 #####
 ###### H6 12345 ######
 ![Image of github octopus](https://octodex.github.com/yogitocat.png)
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
